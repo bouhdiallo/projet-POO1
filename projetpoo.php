@@ -54,10 +54,10 @@ public function presEtudiant(){
 }
 }
 
-$etudiant = new Etudiant("fall","ndiaga","PD1205" ,"2003/05/14");
-$etudiant->presEtudiant();
+//$etudiant = new Etudiant("fall","ndiaga","PD1205" ,"2003/05/14");
+//$etudiant->presEtudiant();
 
-/*
+
 Class professeur extends etudiant{
 
     public $voiture;
@@ -87,7 +87,7 @@ $professeur->presProfesseur();
 
 
 
-*/
+
 
 
 
